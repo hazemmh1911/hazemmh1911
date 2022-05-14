@@ -1,13 +1,12 @@
 <h1 align="center">Hello 👋, I'm Hazem</h1>
 <h3 align="center">A Passionate Data Scientist from Egypt</h3>
 
-- 🔭 I’m currently working on **CS50 Introduction To AI with Python**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **CS50 Introduction To AI with Python**
 
 - 📫 How to reach me **hazmoh.wm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZHGbrRxy8bze5g__EWZkv0hc872BUOCt/view?usp=sharing](https://drive.google.com/file/d/1ZHGbrRxy8bze5g__EWZkv0hc872BUOCt/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZHGbrRxy8bze5g__EWZkv0hc872BUOCt/view?usp=sharing"> My CV <\a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
