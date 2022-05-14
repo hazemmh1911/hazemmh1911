@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **hazmoh.wm@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZHGbrRxy8bze5g__EWZkv0hc872BUOCt/view?usp=sharing"> My CV <\a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZHGbrRxy8bze5g__EWZkv0hc872BUOCt/view?usp=sharing"> My CV
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
