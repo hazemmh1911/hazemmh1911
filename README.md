@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate RPA Developer from Egypt</h3>
 
 
-- 🌱 I’m currently learning **CS50 Introduction To AI with Python**
+- 🌱 I’m currently learning **UI Path**
 
 - 📫 How to reach me **hazmoh.wm@gmail.com**
 
