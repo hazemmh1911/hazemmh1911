@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Hazem</h1>
-<h3 align="center">A Passionate Data Scientist from Egypt</h3>
+<h3 align="center">A Passionate RPA Developer from Egypt</h3>
 
 
 - 🌱 I’m currently learning **CS50 Introduction To AI with Python**
