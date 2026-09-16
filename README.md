@@ -1,31 +1,123 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hazem Mohamed
-=====================================================================================================================================
+<div align="center">
 
-RPA Engineer
-------------
+# Hi, I'm Hazem Abdelhalim 👋
 
-I'm a Certified Blue prism developer with 1 Year working experience.
+### Senior Power Platform & Intelligent Automation Engineer
 
-* 🌍  I'm based in Egypt
-* ✉️  You can contact me at [hazmoh.wm@gmail.com](mailto:hazmoh.wm@gmail.com)
-* 🚀  I'm currently working on [Getting Certified in UI Path](http://UIPATH.COM)
-* 🧠  I'm learning UI Path
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=742774&center=true&vCenter=true&width=760&lines=Power+Platform+%7C+Copilot+Studio+%7C+RPA;Building+AI-assisted+enterprise+automation;Turning+manual+work+into+governed+digital+solutions" alt="Hazem's professional focus" />
 
-### Skills
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazemmh191)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazmoh.wm@gmail.com)
+![Location](https://img.shields.io/badge/Based_in-Malta-D12229?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
+
+---
+
+## ⚡ I build automation that reaches production
+
+I'm a **Power Platform and Intelligent Automation Engineer** with **5+ years of experience** delivering secure enterprise applications, AI-assisted workflows, and RPA solutions across **regulated banking, telecommunications, and FMCG**.
+
+Currently, I work as a **Power Platform & Automation Specialist at Bank of Valletta**, building solutions with Power Apps, Power Automate, Dataverse, Copilot Studio, Microsoft 365, SAP, and enterprise APIs.
+
+My focus goes beyond building flows and prototypes. I design automation that is governed, supportable, measurable, and ready for real production environments.
+
+## 📊 Impact at a Glance
+
+<table>
+<tr>
+<td align="center">
+<strong>5+</strong><br/>
+Years in Automation
+</td>
+<td align="center">
+<strong>15+</strong><br/>
+Enterprise Solutions
+</td>
+<td align="center">
+<strong>2 FTE</strong><br/>
+Manual Work Eliminated
+</td>
+<td align="center">
+<strong>30–50%</strong><br/>
+Efficiency Improvement
+</td>
+</tr>
+</table>
+
+- 🏦 Delivered a banking automation that eliminated **2 FTE equivalents** of manual work.
+- 📈 Improved process efficiency by approximately **30–50%**.
+- 📡 Built and optimised **5+ UiPath automations**, reducing manual effort by more than **35%**.
+- 🌍 Delivered **10+ Power Platform and RPA solutions** for P&G stakeholders across North America, Asia, and IMEA.
+
+## 🧠 AI & Copilot Studio
+
+I use **Microsoft Copilot Studio** and prompt-based processing to build AI-assisted business workflows for:
+
+- Generative AI assistants
+- Content summarisation
+- Information classification
+- Business-relevance validation
+- AI-assisted workflow decisions
+- Connecting conversational experiences with enterprise processes
+
+## 🟣 Power Platform
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-AI_Agents-5C2D91?style=for-the-badge)
+![Dataverse](https://img.shields.io/badge/Microsoft_Dataverse-088142?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+
 </p>
 
+- Canvas and Model-Driven Power Apps
+- Power Automate cloud and desktop flows
+- Dataverse data modelling
+- Custom connectors and Microsoft 365 integrations
+- Managed solutions, environment variables, and connection references
+- DLP policies, deployment pipelines, and Dev/Test/Prod environments
 
-### Socials
+## 🤖 RPA & Intelligent Automation
 
-<p align="left"> <a href="https://www.github.com/hazemmh1911" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hazemmh191/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+
+![Power Automate Desktop](https://img.shields.io/badge/Power_Automate_Desktop-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Blue Prism](https://img.shields.io/badge/Blue_Prism-0057B8?style=for-the-badge)
+![ABBYY OCR](https://img.shields.io/badge/ABBYY-OCR-E01B24?style=for-the-badge)
+
+</p>
+
+I design **attended and unattended automation** with reusable components, structured logging, retry logic, exception handling, monitoring, and production support.
+
+## 🔗 Enterprise Integration
+
+`SAP GUI / ERP` · `REST APIs` · `SOAP APIs` · `SQL Server` · `Microsoft 365` · `SharePoint` · `Teams` · `Outlook` · `OneDrive` · `On-premises Gateways`
+
+## 🏅 Earned Certifications
+
+[![PL-500](https://img.shields.io/badge/Microsoft-PL--500_RPA_Developer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/power-automate-rpa-developer-associate/)
+
+[![PL-200](https://img.shields.io/badge/Microsoft-PL--200_Functional_Consultant-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/)
+
+[![PL-900](https://img.shields.io/badge/Microsoft-PL--900_Power_Platform_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/)
+
+[![Blue Prism AD01](https://img.shields.io/badge/Blue_Prism-Developer_AD01-0057B8?style=for-the-badge)](https://university.blueprism.com/certification/developer)
+
+[![Udacity](https://img.shields.io/badge/Udacity-Data_Analyst_Professional-02B3E4?style=for-the-badge&logo=udacity&logoColor=white)](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+---
+
+<div align="center">
+
+### Better systems. Less manual work. More time for meaningful work.
+
+<sub>Power Platform · Copilot Studio · AI · RPA · Enterprise Automation</sub>
+
+</div>
